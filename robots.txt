@@ -1,0 +1,3 @@
+disallow: /admin
+
+<meta name="robots" content="noindex, nofollow">
